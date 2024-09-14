@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "346283928128",
+    "project_id": "starvaletapp",
+    "storage_bucket": "starvaletapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346283928128:android:2f116e128d9f290a794da5",
+        "android_client_info": {
+          "package_name": "com.mycompany.starvaletapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBF-nwUIlRsQZeQqZGHVN5FbJbta8nciVI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
